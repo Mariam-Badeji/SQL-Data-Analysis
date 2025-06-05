@@ -1,7 +1,8 @@
 # SQL-Data-Analysis
 # Inventory Management Dataset
 ## Project Background and Overview
-Inventory management 
+An effective inventory management is critical to operational efficiency, cost control, and customer satisfaction in any product-based business. This exploratory analysis presents a comprehensive insight into an inventory management system of our hypothetical company. 
+
 The inventory dataset contains data on different warehouse locations, cost and pricing, suppliers and their restocking performance and inventory levels for the year.
 
 Insights and recommendations are provided on the following key areas:
