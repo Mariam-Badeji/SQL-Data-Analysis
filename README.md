@@ -1,4 +1,5 @@
 # SQL-Data-Analysis
+# Inventory Management Dataset
 ## Project Background and Overview
 Inventory management 
 The inventory dataset contains data on different warehouse locations, cost and pricing, suppliers and their restocking performance and inventory levels for the year.
