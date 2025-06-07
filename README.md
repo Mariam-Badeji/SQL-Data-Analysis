@@ -11,6 +11,13 @@ Insights and recommendations are provided on the following key areas:
 - Supplier Performance: An analysis of the various suppliers based on their turnover rate and average lead time for restocking products.
 - Cost and Pricing Analysis: Assessment of the top five most expensive products based on unit price and turnover based on the stock quantity and lead time.
 
+### SQL Questions and Codes Used
+Which product category has the highest total stock quantity across all products?
+```SELECT Category, SUM(Stock_Quantity) AS Total_stock
+FROM ['Inventory_Mag$']
+GROUP BY Category
+ORDER BY Total_stock DESC```
+
 ## Data Structure
  The inventory management consists of just one table which was then modelled by me to provide better insights as shown below: 
 
